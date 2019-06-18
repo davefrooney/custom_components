@@ -1,5 +1,7 @@
 ble_track/device_tracker.py.official
 ble_track/device_tracker.py.mine
 ble_track/device_tracker.py.custom
+ble_track/__pycache__
+dublin_bus/__pycache__
 
 
