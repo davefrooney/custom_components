@@ -3,7 +3,7 @@
   "name": "BLE Tracker",
   "documentation": "https://www.home-assistant.io/components/bluetooth_le_tracker",
   "requirements": [
-    "pygatt[GATTTOOL]==4.0.1"
+    "pygatt[GATTTOOL]==4.0.5"
   ],
   "codeowners": [],
   "dependencies": []
