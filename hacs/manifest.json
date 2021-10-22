@@ -13,5 +13,6 @@
     "backoff==1.8.0",
     "aiogithubapi==0.2.0",
     "integrationhelper==0.2.2"
-  ]
+  ],
+  "version": "1.0.0"
 }
