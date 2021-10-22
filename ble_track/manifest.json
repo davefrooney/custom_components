@@ -6,5 +6,6 @@
     "pygatt[GATTTOOL]==4.0.5"
   ],
   "codeowners": [],
-  "dependencies": []
+  "dependencies": [],
+  "version": "1.0.0"
 }

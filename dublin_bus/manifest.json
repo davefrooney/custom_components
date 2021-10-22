@@ -4,5 +4,6 @@
   "documentation": "https://www.home-assistant.io/components/dublin_bus_transport",
   "requirements": [],
   "dependencies": [],
-  "codeowners": []
+  "codeowners": [],
+  "version": "1.0.0"
 }
